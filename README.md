@@ -58,7 +58,7 @@
 
 <p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh7-code&show_icons=true&locale=en&layout=compact" alt="Harsh7-code" /></p>
 
-<p>&nbsp;<img align="right"  width="518" src="https://github-readme-stats.vercel.app/api?username=Harsh7-code&show_icons=true&locale=en" alt="Harsh7-code" /></p>
+<p>&nbsp;<img align="right"  width="400" src="https://github-readme-stats.vercel.app/api?username=Harsh7-code&show_icons=true&locale=en" alt="Harsh7-code" /></p>
 
 
 
