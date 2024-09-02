@@ -1,4 +1,5 @@
-![Black and  White Gradient Personal LinkedIn Banner](https://github.com/user-attachments/assets/bde7defb-28b3-443f-8c1b-2647bea50506)
+![gitartwork](gitartwork.svg)
+
 # Hey there, it's a pleasure to meet you! 👋
 
 ### About Me
