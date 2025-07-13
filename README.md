@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a Frontend Web Developer and Cloud enthusiast with a keen interest in Artificial Intelligence. I enjoy bringing a static design or idea to life and learning new technologies in the process.
+<h3 align="center">I’m an aspiring software engineer with a keen interest in Artificial Intelligence. I enjoy bringing a static design or idea to life and learning new technologies in the process.
 </h3>
 <img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
 
